@@ -2,10 +2,12 @@
 
 ######
 <p align="center">
-  ![Dhruvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvin5&show_icons=true&theme=radical)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvin5&layout=compact)](https://github.com/dhruvin5/github-readme-stats)
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=dhruvin5&theme=darcula&hide_border=false&background=FFFFFF00">
+<img src ="https://github-readme-stats.vercel.app/api?username=dhruvin5&show_icons=true&count_private=true&theme=radical&hide_border=false&hide=issues,contribs&bg_color=00000000">
+<br>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvin5&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=dhruvin5&theme=darcula&hide_border=false&background=FFFFFF00">
+ 
   <br>
 </p>
 
