@@ -19,7 +19,7 @@ I'm currently pursuing a Master of Science in Computer Science from the Universi
 
 #### Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/react-%2320232a.svg.svg.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
